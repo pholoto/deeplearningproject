@@ -1,0 +1,5 @@
+{
+  "total_pairs": 1489482,
+  "source_xml": "viwiki-latest-pages-articles-multistream.xml",
+  "output_file": "data/wiki_pairs.txt"
+}

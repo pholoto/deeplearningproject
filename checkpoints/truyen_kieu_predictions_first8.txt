@@ -1,0 +1,75 @@
+Truyen_Kieu predictions — first 8 lines
+Each block: Input (stripped) / Expected (original) / Random / Most-frequent / LSTM / Transformer / Transformer (SAM)
+
+Line 1:
+  Input   : tram nam trong coi nguoi ta
+  Expected: trăm năm trong cõi người ta
+  Random            : trâm nam trong coi người tá
+  Most-frequent     : trăm năm trong coi người ta
+  LSTM              : trăm năm trong cõi người ta
+  Transformer       : trăm năm trông coi người ta
+  Transformer (SAM) : trăm năm trông coi người ta
+
+Line 2:
+  Input   : chu tai chu menh kheo la ghet nhau
+  Expected: chữ tài chữ mệnh khéo là ghét nhau
+  Random            : chú tại chữ mệnh khéo là ghét nhau
+  Most-frequent     : chủ tại chủ mệnh khéo là ghét nhau
+  LSTM              : chú tài chú mệnh khéo là ghét nhau
+  Transformer       : chủ tại chu mệnh khéo là ghét nhau
+  Transformer (SAM) : chủ tài chủ mệnh khéo là ghét nhau
+
+Line 3:
+  Input   : trai qua mot cuoc be dau
+  Expected: trải qua một cuộc bể dâu
+  Random            : trai quá một cuộc bề đầu
+  Most-frequent     : trái qua một cuộc bề đầu
+  LSTM              : trải qua một cuộc bề dau
+  Transformer       : trải qua một cuộc bê đau
+  Transformer (SAM) : trải qua một cuộc bế đầu
+
+Line 4:
+  Input   : nhung dieu trong thay ma dau don long
+  Expected: những điều trông thấy mà đau đớn lòng
+  Random            : những điều trong thấy mà đầu đòn long
+  Most-frequent     : những điều trong thay mà đầu đơn long
+  LSTM              : những điều trông thấy mà đau đớn lòng
+  Transformer       : những điều trông thấy mà đau đớn lòng
+  Transformer (SAM) : những điều trông thấy mà đau đớn lòng
+
+Line 5:
+  Input   : la gi bi sac tu phong
+  Expected: lạ gì bỉ sắc tư phong
+  Random            : là gì bị sắc từ phong
+  Most-frequent     : là gì bị sắc từ phong
+  LSTM              : là gì bị sắc tử phong
+  Transformer       : là gì bị sắc tứ phong
+  Transformer (SAM) : là gì bị sắc từ phong
+
+Line 6:
+  Input   : troi xanh quen thoi ma hong danh ghen
+  Expected: trời xanh quen thói má hồng đánh ghen
+  Random            : trời xanh quên thời má hồng dành ghen
+  Most-frequent     : trời xanh quen thời mà hồng đánh ghen
+  LSTM              : trời xanh quên thói mà hồng đánh ghen
+  Transformer       : trời xanh quen thói mà hòng đánh ghen
+  Transformer (SAM) : trời xanh quen thói mà hồng đánh ghen
+
+Line 7:
+  Input   : cao thom lan gio truoc den
+  Expected: cảo thơm lần giở trước đèn
+  Random            : cao thơm lần giờ trước đến
+  Most-frequent     : cao thơm lần giờ trước đến
+  LSTM              : cao thơm lặn giò trước đèn
+  Transformer       : cao thơm lăn gió trước đến
+  Transformer (SAM) : cao thơm lẫn gió trước đến
+
+Line 8:
+  Input   : phong tinh co luc con truyen su xanh
+  Expected: phong tình có lục còn truyền sử xanh
+  Random            : phong tính có lực con truyền sự xanh
+  Most-frequent     : phong tính có lực còn truyền sự xanh
+  LSTM              : phóng tĩnh có lúc còn truyền sự xanh
+  Transformer       : phòng tình cờ lúc còn truyền sự xanh
+  Transformer (SAM) : phòng tỉnh có lúc còn truyền sư xanh
+
